@@ -514,12 +514,12 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-neg-2048 .tile-inner {
         font-size: 15px; } }
-  .tile.tile-super .tile-inner {
+  .tile.tile-99999 .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
-      .tile.tile-super .tile-inner {
+      .tile.tile-99999 .tile-inner {
         font-size: 10px; } }
 
 @-webkit-keyframes appear {
