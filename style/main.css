@@ -426,6 +426,26 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-8192 .tile-inner {
         font-size: 10px; } }
+  .tile.tile-0 .tile-inner {
+    color: #ee2222;
+    background: #eee4da; }
+  .tile.tile-16384 .tile-inner {
+    color: #f9f6f2;
+    background: #00a368;
+    font-size: 30px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-16384 .tile-inner {
+        font-size: 10px; } }
+  .tile.tile-0 .tile-inner {
+    color: #ee2222;
+    background: #eee4da; }
+  .tile.tile-32768 .tile-inner {
+    color: #f9f6f2;
+    background: #00ccc0;
+    font-size: 30px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-32768 .tile-inner {
+        font-size: 10px; } }
   .tile.tile-neg-2 .tile-inner {
     background: #111b25;
     box-shadow: 0 0 30px 10px rgba(12, 40, 139, 0), inset 0 0 0 1px rgba(0, 0, 0, 0); }
